@@ -9,6 +9,10 @@
 * Hobbies: reading and playing videogames on my Switch
 ## Plans ##
 * Work in security or IT for a company in Omaha, NE.
+## Skills ##
+* GitBash
+* Powershell
 ## Links ##
 * GitHub: https://github.com/francescainfranca
+    * Shell Data Processing: https://github.com/francescainfranca/shell-data-processing
 * LinkedIn: https://www.linkedin.com/in/francesca-infranca-399653168/
